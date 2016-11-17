@@ -3,10 +3,10 @@ Esse repositório contém recursos para quem deseja iniciar com Rails
 
 ## Ruby e Rails
 
-#### Portugês
+#### Português
 
 * [Space Rails](http://spacerails.com.br/) - Curso interativo
-* [Apostida de Ruby on Rails da Caelum](https://www.caelum.com.br/apostila-ruby-on-rails/) - Livro
+* [Apostila de Ruby on Rails da Caelum](https://www.caelum.com.br/apostila-ruby-on-rails/) - Livro
 * [Curso de Rails do Jackson Pires](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) - Video
 * [Curso de Rails do Fabricio Mattos](https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) - Video
 * [Documentação do Rails](http://api.rubyonrails.org/)
