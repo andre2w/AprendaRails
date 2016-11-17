@@ -9,12 +9,14 @@ Esse repositório contém recursos para quem deseja iniciar com Rails
 * [Apostila de Ruby on Rails da Caelum](https://www.caelum.com.br/apostila-ruby-on-rails/) - Livro
 * [Curso de Rails do Jackson Pires](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) - Video
 * [Curso de Rails do Fabricio Mattos](https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) - Video
+* [Rails Girls - Ruby on Rails Primeiros passos](http://www.maujor.com/railsgirlsguide/)
 * [Documentação do Rails](http://api.rubyonrails.org/)
 
 #### Inglês
 
 * [The Odin Project](http://www.theodinproject.com/) - Web Bootcamp
 * [Rails Tutorial by Michel Harlt](https://www.railstutorial.org/book) - Book
+* [Try Ruby](http://tryruby.org/) - Interactive Course
 * [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux) - Interactive Course
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [Rails Documentation](http://api.rubyonrails.org/)
@@ -23,6 +25,8 @@ Esse repositório contém recursos para quem deseja iniciar com Rails
 * [Ruby Bastards Book](http://ruby.bastardsbook.com/)
 * [Ruby ForBeginners](http://ruby-for-beginners.rubymonstas.org/index.html)
 * [Learn Enough Action Cable to be Dangerous](https://www.learnenough.com/action-cable-tutorial) - Book(advanced)
+* [How I finally learned to build stuff with Rails](https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.cwkksayd0)
+
 
 ## Git e CLI
 
