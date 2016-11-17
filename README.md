@@ -22,6 +22,7 @@ Esse repositório contém recursos para quem deseja iniciar com Rails
 * [Rails Crash Course](http://www.developingandrails.com/2015/01/crash-course-on-modern-web-development.html)
 * [Ruby Bastards Book](http://ruby.bastardsbook.com/)
 * [Ruby ForBeginners](http://ruby-for-beginners.rubymonstas.org/index.html)
+* [Learn Enough Action Cable to be Dangerous](https://www.learnenough.com/action-cable-tutorial) - Book(advanced)
 
 ## Git e CLI
 
@@ -35,6 +36,8 @@ Esse repositório contém recursos para quem deseja iniciar com Rails
 
 * [Git Pro book](https://git-scm.com/book/en/v2) - Livro
 * [Bash Academy](http://guide.bash.academy/)
+* [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial) - Livro
+* [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial) - Livro
 
 ## Screencasts
 
