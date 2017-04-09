@@ -1,9 +1,5 @@
 # Aprendendo Rails
 Esse repositório contém recursos para quem deseja iniciar com Rails 
----
-title: Materiais de Estudo
-layout: page
----
 
 # Rails
 
